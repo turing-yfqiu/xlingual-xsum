@@ -32,6 +32,16 @@ A collection of papers and materials about cross-lingual text summarization.
   [[Paper]](https://aclanthology.org/2021.eacl-main.146)
   [[Dataset]](https://deephelp.zendesk.com/hc/en-us/sections/360011925552-MultiHumES)
   **EACL 2021**
+  
+* MLSUM: The Multilingual Summarization Corpus (Scialom et al., 2020)
+  [[Paper]](https://aclanthology.org/2020.emnlp-main.647)
+  [[Dataset]](ttps://github.com/recitalAI/MLSUM)
+  **EMNLP 2020**
+
+* WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization (Ladhak et al., 2020)
+  [[Paper]](https://aclanthology.org/2020.findings-emnlp.360)
+  [[Dataset]](https://github.com/esdurmus/Wikilingua)
+  **EMNLP 2020 Findings**
 
 
 # Methodology
@@ -49,7 +59,20 @@ A collection of papers and materials about cross-lingual text summarization.
   [[Paper]](https://aclanthology.org/2021.findings-acl.242)
   [[Code]](https://github.com/brxx122/CALMS)
   **ACL 2021 Findings**
-
+  
+* A Deep Reinforced Model for Zero-Shot Cross-Lingual Summarization with Bilingual Semantic Similarity Rewards (Dou et al., 2020)
+  [[Paper]](https://aclanthology.org/2020.ngt-1.7)
+  [[Code]](https://github.com/zdou0830/crosslingual_summarization_semantic)
+  **4th Workshop on Neural Generation and Translation**
+  
+* Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization (Cao et al., 2020)
+  [[Paper]](https://aclanthology.org/2020.acl-main.554)
+  **ACL 2020**
+  
+* Attend, Translate and Summarize: An Efficient Method for Neural Cross-Lingual Summarization (Zhu et al., 2020)
+  [[Paper]](https://aclanthology.org/2020.acl-main.121)
+  [[Code]](https://github.com/ZNLP/ATSum)
+  **ACL 2020**
 
 # Evaluation
 * Evaluating the Efficacy of Summarization Evaluation across Languages (Koto et al., 2021)
