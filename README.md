@@ -27,3 +27,19 @@ A collection of papers and materials about cross-lingual text summarization.
   [[Paper]](https://aclanthology.org/2021.acl-long.538)
   [[Code]](https://github.com/WoodenWhite/MCLAS)
   **ACL 2021**
+
+* Improving Neural Cross-Lingual Summarization via Employing Optimal Transport Distance for Knowledge Distillation (Nguyen and Tuan, 2021)
+  [[Paper]](https://arxiv.org/abs/2112.03473v1)
+  **AAAI 2022**
+  
+* Contrastive Aligned Joint Learning for Multilingual Summarization (Wang et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.findings-acl.242)
+  [[Code]](https://github.com/brxx122/CALMS)
+  **ACL 2021 Findings**
+
+
+# Evaluation
+* Evaluating the Efficacy of Summarization Evaluation across Languages (Koto et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.findings-acl.71)
+  **ACL 2021 Findings**
+
