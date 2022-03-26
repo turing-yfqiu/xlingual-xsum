@@ -19,6 +19,20 @@ A collection of papers and materials about cross-lingual text summarization.
   [[Paper]](https://aclanthology.org/2021.findings-acl.413)
   [[Code]](https://github.com/csebuetnlp/xl-sum)
   **ACL 2021 Findings**
+  
+* A Novel Wikipedia based Dataset for Monolingual and Cross-Lingual Summarization (Fatima and Strube, 2021)
+  [[Paper]](https://aclanthology.org/2021.newsum-1.5)
+  **3rd Workshop on New Frontiers in Summarization**
+  
+* MassiveSumm: a very large-scale, very multilingual, news summarisation dataset (Varab and Schluter, 2021)
+  [[Paper]](https://aclanthology.org/2021.emnlp-main.797)
+  [[Dataset]](https://github.com/danielvarab/massive-summ)
+  **EMNLP 2021**
+  
+* MultiHumES: Multilingual Humanitarian Dataset for Extractive Summarization (Yela-Bello et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.eacl-main.146)
+  [[Dataset]](https://deephelp.zendesk.com/hc/en-us/sections/360011925552-MultiHumES)
+  **EACL 2021**
 
 
 # Methodology
