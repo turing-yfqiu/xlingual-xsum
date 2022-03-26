@@ -42,6 +42,16 @@ A collection of papers and materials about cross-lingual text summarization.
   [[Paper]](https://aclanthology.org/2020.findings-emnlp.360)
   [[Dataset]](https://github.com/esdurmus/Wikilingua)
   **EMNLP 2020 Findings**
+  
+* Global Voices: Crossing Borders in Automatic News Summarization (Nguyen and Hal Daumé, 2019)
+  [[Paper]](https://aclanthology.org/D19-5411)
+  [[Dataset]]()
+  **2nd Workshop on New Frontiers in Summarization**
+  
+* NCLS: Neural Cross-Lingual Summarization (Zhu et al., 2019)
+  [[Paper]](https://aclanthology.org/D19-1302)
+  [[Dataset]](http://www.nlpr.ia.ac.cn/cip/dataset.htm)
+  **EMNLP 2019**
 
 
 # Methodology
@@ -73,6 +83,10 @@ A collection of papers and materials about cross-lingual text summarization.
   [[Paper]](https://aclanthology.org/2020.acl-main.121)
   [[Code]](https://github.com/ZNLP/ATSum)
   **ACL 2020**
+  
+* A Robust Abstractive System for Cross-Lingual Summarization (Ouyang et al., 2019)
+  [[Paper]](https://aclanthology.org/N19-1204)
+  **NAACL 2019**
 
 # Evaluation
 * Evaluating the Efficacy of Summarization Evaluation across Languages (Koto et al., 2021)
