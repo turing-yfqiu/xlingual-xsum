@@ -14,7 +14,6 @@ A collection of papers and materials about cross-lingual text summarization.
   [[Paper]](https://aclanthology.org/2021.emnlp-main.742)
   [[Code]](https://github.com/lauhaide/clads)
   **EMNLP 2021**
-  
 * XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages (Hasan et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-acl.413)
   [[Code]](https://github.com/csebuetnlp/xl-sum)
