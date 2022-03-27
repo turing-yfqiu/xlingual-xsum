@@ -60,6 +60,11 @@ A collection of papers and materials about cross-lingual text summarization.
 
 # Methodology
 
+* A Variational Hierarchical Model for Neural Cross-Lingual Summarization (Liang et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2203.03820.pdf)
+  [[Code]](https://github.com/XL2248/VHM)
+  **ACL 2022**
+
 * Cross-Lingual Abstractive Summarization with Limited Parallel Resources (Bai et al., 2021)
   [[Paper]](https://aclanthology.org/2021.acl-long.538)
   [[Code]](https://github.com/WoodenWhite/MCLAS)
@@ -87,6 +92,11 @@ A collection of papers and materials about cross-lingual text summarization.
   [[Paper]](https://aclanthology.org/2020.acl-main.121)
   [[Code]](https://github.com/ZNLP/ATSum)
   **ACL 2020**
+  
+* Mixed-Lingual Pre-training for Cross-lingual Summarization (Xu et al., 2020)
+  [[Paper]](https://aclanthology.org/2020.aacl-main.53.pdf)
+  [[Code]]()
+  **AACL 2020**
   
 * A Robust Abstractive System for Cross-Lingual Summarization (Ouyang et al., 2019)
   [[Paper]](https://aclanthology.org/N19-1204)
