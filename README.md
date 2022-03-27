@@ -4,6 +4,10 @@ A collection of papers and materials about cross-lingual text summarization.
 
 # Task Definition
 
+Cross-lingual summarization is a task that aiming at producing the summary in a target language (e.g., English) from a document in a source language (e.g., French).
+
+![avatar](x-lingual-example.png)
+
 # Survey
 * A Survey on Cross-Lingual Summarization (Wang et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2203.12515.pdf)
