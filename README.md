@@ -33,6 +33,10 @@ A collection of papers and materials about cross-lingual text summarization.
   [[Dataset]](https://deephelp.zendesk.com/hc/en-us/sections/360011925552-MultiHumES)
   **EACL 2021**
   
+* CrossSum: Beyond English-Centric Cross-Lingual Abstractive Text Summarization for 1500+ Language Pairs (Hasan et al., 2021)
+  [[Paper]](https://arxiv.org/abs/2112.08804)
+  [[Dataset]](https://github.com/csebuetnlp/CrossSum)
+  
 * MLSUM: The Multilingual Summarization Corpus (Scialom et al., 2020)
   [[Paper]](https://aclanthology.org/2020.emnlp-main.647)
   [[Dataset]](ttps://github.com/recitalAI/MLSUM)
